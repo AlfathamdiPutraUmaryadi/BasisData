@@ -1,5 +1,5 @@
 # BasisData
-Latihan Penggunaan Python Semester 5
+Latihan Penggunaan Python Semester 5 untuk basis data
 
 # Tugas 1
 
